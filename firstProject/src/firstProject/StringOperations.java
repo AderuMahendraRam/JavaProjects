@@ -32,5 +32,11 @@ class StringOperations {
 		System.out.println("ram");
 		
 	}
+
+	@Override
+	public void test2() {
+		// TODO Auto-generated method stub
+		
+	}
 	 
  }
