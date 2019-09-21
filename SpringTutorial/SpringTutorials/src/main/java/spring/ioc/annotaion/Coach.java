@@ -1,7 +1,7 @@
 /**
  * 
  */
-package spring.ioc.annotationConf;
+package spring.ioc.annotaion;
 
 /**
  * @author AMRS

@@ -1,8 +1,8 @@
-package spring.ioc.annotationConf;
+package spring.ioc.annotaion;
 
 import org.springframework.stereotype.Component;
 
-@Component("cricetCoach")
+@Component("cricket")
 public class CricketCoach implements Coach {
 
 	public String dailyTimeTable() {

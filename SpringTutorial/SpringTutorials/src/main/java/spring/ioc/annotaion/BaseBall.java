@@ -1,7 +1,7 @@
 /**
  * 
  */
-package spring.ioc.annotationConf;
+package spring.ioc.annotaion;
 
 import org.springframework.stereotype.Component;
 
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * @author AMRS
  *
  */
-@Component("baseballCoach")
+@Component("baseball")
 public class BaseBall implements Coach {
 
 	public String dailyTimeTable() {
